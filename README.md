@@ -44,6 +44,19 @@ LUMA addresses this gap by reducing physical interaction and cognitive load thro
 
 * **Permission-Compliant Design**
   Runtime handling for Location, Microphone, SMS, and Camera permissions.
+  ## Screenshots
+
+<p align="center">
+  <img src="assets/home.jpeg" width="250"/>
+  <img src="assets/alert.jpeg" width="250"/>
+  <img src="assets/msg.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="assets/safetyControls.jpeg" width="250"/>
+  <img src="assets/settings.jpeg" width="250"/>
+  <img src="assets/emergencyControls.jpeg" width="250"/>
+</p>
 
 ## System Flow
 1. Voice trigger or manual SOS activation
