@@ -54,7 +54,8 @@ LUMA addresses this gap by reducing physical interaction and cognitive load thro
 
 <p align="center">
   <img src="assets/settings.jpeg" width="250"/>
-  <img src="assets/emergencyControls.jpeg" width="250"/>
+  <img src="assets/emergencyContacts.jpeg" width="250"/>
+   <img src="assets/msg.jpeg" width="250"/>
 </p>
 
 ## System Flow
