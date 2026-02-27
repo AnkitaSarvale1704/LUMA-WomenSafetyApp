@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        <style name="settingCard">
+            <item name="android:layout_width">match_parent</item>
+            <item name="android:layout_height">60dp</item>
+            <item name="android:orientation">horizontal</item>
+            <item name="android:gravity">center_vertical</item>
+            <item name="android:paddingStart">16dp</item>
+            <item name="android:paddingEnd">16dp</item>
+            <item name="android:layout_marginBottom">16dp</item>
+            <item name="android:background">#E0E0E0</item>
+            <item name="android:elevation">4dp</item>
+        </style>
+
+        <style name="settingText">
+            <item name="android:layout_width">0dp</item>
+            <item name="android:layout_height">wrap_content</item>
+            <item name="android:layout_weight">1</item>
+            <item name="android:textSize">16sp</item>
+            <item name="android:textColor">#000000</item>
+        </style>
+
+    </resources>
+
